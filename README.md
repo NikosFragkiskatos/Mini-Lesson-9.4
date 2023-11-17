@@ -29,5 +29,4 @@ Tools used in the project:
 </ul>
 
 
-<img src="0_I8vPpwI8yOKvQnf-.webp" alt="Circuit Logo - html" title="Elec Circuit">
 
